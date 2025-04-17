@@ -27,7 +27,7 @@ To set up the Nethra-Object-Detection system on your local machine, follow these
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/Pats03/ChefGuru.git
+https://github.com/Pats03/Nethra-Object-Detection.git
 cd ChefGuru
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
